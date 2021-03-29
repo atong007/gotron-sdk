@@ -3,8 +3,8 @@ package keystore
 import (
 	"fmt"
 
-	"github.com/fbsobreira/gotron-sdk/pkg/address"
-	"github.com/fbsobreira/gotron-sdk/pkg/proto/core"
+	"github.com/atong007/gotron-sdk/pkg/address"
+	"github.com/atong007/gotron-sdk/pkg/proto/core"
 	"golang.org/x/crypto/sha3"
 )
 
